@@ -16,11 +16,16 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
-cd REPOSITORY
+git clone https://github.com/Dedroff/Practice.git
+cd Practice
+```
 
-## Установите зависимости:
-pip install -r requirements.txt
+2. Установите зависимости:
+```bash
+`pip install -r requirements.txt
+```
 
-##Запустите приложение
+3. Запустите приложение
+```bash
 python main.py
+```
